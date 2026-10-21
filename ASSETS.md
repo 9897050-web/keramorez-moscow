@@ -1,0 +1,11 @@
+# Изображения
+
+Способ: встроенный Imagegen. Обе иллюстрации вымышленные, проектные. Они не являются реальными фотографиями работ компании.
+
+## stone-hero.png
+
+Prompt: Use case: product-mockup. Create one wide cinematic 3:2 editorial architectural image for a premium porcelain tile cutting studio website. Photorealistic carefully composed dark minimalist showroom still life: on the right a large upright charcoal-black porcelain slab with delicate organic ivory and bronze marble veins; in foreground a low rectangular porcelain plinth showing a beautiful precise mitered 45-degree corner and matching continuous veins; behind it two offset thinner slabs, one warm beige travertine texture and one soft off-white marble. Dark charcoal plaster floor and background, soft warm directional sunlight from upper left, rich subtle shadows, tactile realistic stone, sophisticated architectural magazine photography. Objects fill right two thirds, left third dark quiet negative space. No text, no labels, no logo, no machinery, no people. This is an illustrative concept, not a photograph of a real commissioned project.
+
+## projects.png
+
+Prompt: Use case: product-mockup. One coherent horizontal triptych image with THREE EQUAL WIDTH panels side by side, no borders, no typography. Three photorealistic architectural product concept renders for a porcelain fabrication studio. LEFT PANEL: close-up minimal white marble effect porcelain floating bathroom vanity countertop with round vessel basin and brushed bronze wall tap, beautiful 45 degree mitered edge, warm charcoal background. CENTER PANEL: contemporary three floating steps clad with dark graphite stone effect porcelain, visible crisp step nosings, side light and dark textured wall. RIGHT PANEL: close-up beige travertine effect porcelain kitchen backsplash and worktop meeting, clean rectangular cutouts for two dark flush power outlets, warm architectural light. Each panel self-contained centered portrait composition suitable for showing as three separate tall website cards using CSS background positioning. High-end architecture magazine, realistic material texture and construction, restrained luxury, charcoal and warm beige palette. No logos, no text, no people. Illustrative imagined projects, not real completed commissions.
