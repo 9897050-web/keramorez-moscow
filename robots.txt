@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://9897050-web.github.io/keramorez-moscow/sitemap.xml
