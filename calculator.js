@@ -23,7 +23,7 @@
     if(d.thickness!=='standard')reasons.push('толщина вне диапазона 6–12 мм');
     if(sides.length&&d.angle==='custom')reasons.push('нестандартный угол');
     if(d.holes>0&&d.diameter==='custom')reasons.push('нестандартное отверстие или вырез');
-    const rate=d.angle==='45'?(maxSide>1200?500:450):(maxSide>1200?250:150);
+    const rate=d.angle==='45'?650:400;
     const manual=reasons.length>0;
     const cutCost=manual?0:Math.round(meters*rate*100)/100;
     const holeCost=manual?0:d.holes*d.quantity*(HOLE_RATES[d.diameter]||0);
